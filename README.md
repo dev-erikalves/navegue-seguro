@@ -10,18 +10,9 @@ O objetivo é explicar, de forma simples, como reconhecer mensagens suspeitas, p
 - CSS responsivo
 - JavaScript puro, sem bibliotecas externas
 
-## Como executar
+## Como acessar
 
-Abra o `index.html` no navegador. Também dá para usar o Live Preview no VS Code.
-
-Não precisa instalar dependências nem configurar servidor.
-
-## Como publicar no GitHub Pages
-
-1. Crie um repositório público e envie os arquivos deste projeto.
-2. Abra **Settings > Pages** no GitHub.
-3. Em **Build and deployment**, escolha **Deploy from a branch**.
-4. Selecione a branch `main`, a pasta `/(root)` e salve.
+- https://dev-erikalves.github.io/navegue-seguro/#inicio
 
 ## Estrutura
 
